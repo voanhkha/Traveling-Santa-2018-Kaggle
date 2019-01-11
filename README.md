@@ -13,7 +13,7 @@ The python code is designed to work with pypy3 (much faster). Please install pyp
 
 4. Notes: Step 1 can be tuned by inserting more `penalty` steps. Step 2 can be tuned by varying `kick_stride`, `kick_rounds`, and `kick_loss`. Step 3 can be tuned by varying `stride` and `maxfringe`. There is also `EAX.py` which is a genetic algorithm (Edge Assembly Crossover) to combine two tours. 
 
-Team [Zidmie | Kha | Marc | Simon]:
+Team [Zidmie | Kha | Marc | Simon]:  
 Yves Miehe <zidmie@free.fr>  
 Kha Vo <khahuras@gmail.com>  
 Marc Venturini <marc.venturini@gmail.com>  
