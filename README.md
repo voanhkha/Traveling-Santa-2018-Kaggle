@@ -1,6 +1,8 @@
 # Traveling-Santa-2018-Kaggle
 The full code of the team rank 8/1874 [Zidmie | Kha | Marc | Simon] in the "Traveling Santa 2018 - Prime Paths" competition on Kaggle (https://www.kaggle.com/c/traveling-santa-2018-prime-paths/leaderboard)
 
+![Final Leaderboard](https://github.com/voanhkha/Traveling-Santa-2018-Kaggle/blob/master/Traveling_Santa.png)
+
 The python code is designed to work much faster with pypy3 (https://pypy.org/download.html). However, CPython can also run this code normally.  
 1. Optimizing from LKH output tour. We have put in an LKH tour (1502605 raw, 1516256 prime) as the input for step 1. Just run
 `pypy3 step1.py` 
